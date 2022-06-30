@@ -13,5 +13,6 @@ public class TestGit {
         System.out.println("hello git1");
         System.out.println("hello git2");
         System.out.println("master modified");
+        System.out.println("hot-fix modified");
     }
 }
